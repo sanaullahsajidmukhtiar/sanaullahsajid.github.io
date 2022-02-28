@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+
+
+.container
+{
+	background-color: grey;
+}
+
+.navbar-brand{
+font-size: 25px;	
+}
